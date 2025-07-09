@@ -1,4 +1,8 @@
-=======================================================
+# PMD3
+
+**Prostate Metastatic Detection with 3 RNA Biomarker**  
+Instruction:  
+=======================================================  
 Dependency installtion
 1. Install python
 open windows command line, execute:
@@ -13,7 +17,7 @@ then execute:
  
 pip install pandas numpy matplotlib shap streamlit joblib PIL scikit-learn
 
-=======================================================
+=======================================================  
 Program running instuction:
 1. Extract the PMD3.rar to folder. There are main.py in the folder
 
@@ -29,7 +33,17 @@ program will be running in your default browser
 
 4. There are data for simulation in data_example in .csv. Use it for simulation
 
-=======================================================
+=======================================================  
+Simulation:  
+
+![Start](./images/fig1.png)  
+![Run](./images/fig2.png)  
+![Documentation](./images/fig3.png)  
+
+=======================================================  
+Dzakwanil Hakim & Elizabeth Loho. 2025. Lasso Logistic Regression and Artificial Neural Network for Prostate Adenocarcinoma Metastatic Classification and Biomarker Discovery
+
+
 Dzakwanil Hakim 
 dzakwanilhd@gmail.com
 
