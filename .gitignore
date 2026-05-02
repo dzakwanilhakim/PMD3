@@ -5,7 +5,7 @@ __pycache__/
 .venv/
 
 # Streamlit
-.streamlit/
+#.streamlit/
 
 # OS
 .DS_Store
