@@ -2,9 +2,10 @@
 
 A Streamlit web app for predicting prostate cancer metastasis status from RNA expression data, using a Lasso-Logistic Regression model and SHAP-based explainability.
 
-> Based on research that placed **3rd at Genomics and Science Dojo 2.0** (Feb 2025), supported by the British Embassy Jakarta & UK International Development.  
-> Deployed apps: https://metastatic-prostate.streamlit.app  
-> Full research repo: [dzakwanilhakim/prostate-metastatis-ml-rna](https://github.com/dzakwanilhakim/prostate-metastatis-ml-rna)
+> Based on research that placed **3rd at Genomics and Science Dojo 2.0** (Feb 2025), supported by the British Embassy Jakarta & UK International Development.
+>
+> Deployed App : [metastatic-prostate.streamlit.app/](https://metastatic-prostate.streamlit.app/)  
+> Full research repo: [dzakwanilhakim/prostate-metastatis-ml-rna](https://github.com/dzakwanilhakim/prostate-metastatis-ml-rna)  
 
 ---
 
