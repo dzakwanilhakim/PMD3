@@ -24,6 +24,8 @@ header_col1, header_col2 = st.columns([4, 1])
 with header_col1:
     st.title("PMD3")
     st.subheader("Prostate Metastatic Detection based on 3 RNA Biomarker")
+    st.write("https://github.com/dzakwanilhakim/PMD3")
+    st.write("https://github.com/dzakwanilhakim/prostate-metastasis-ml-rna")
 
 with header_col2:
     try:
